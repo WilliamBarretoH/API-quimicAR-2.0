@@ -4,3 +4,4 @@
 
 *Projeto proposto pelo Profº Giuliano Bertotti na matéria Engenheria de Software III*
 
+![Exemplo](https://github.com/WilliamBarretoH/api-quimicar-2.0/blob/master/quimic.jpeg)
